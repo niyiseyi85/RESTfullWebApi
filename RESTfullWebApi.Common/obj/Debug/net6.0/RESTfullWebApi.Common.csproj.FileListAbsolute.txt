@@ -1,0 +1,12 @@
+C:\Users\Great\source\repos\RESTfullWebApi\RESTfullWebApi.Common\bin\Debug\net6.0\RESTfullWebApi.Common.deps.json
+C:\Users\Great\source\repos\RESTfullWebApi\RESTfullWebApi.Common\bin\Debug\net6.0\RESTfullWebApi.Common.dll
+C:\Users\Great\source\repos\RESTfullWebApi\RESTfullWebApi.Common\bin\Debug\net6.0\RESTfullWebApi.Common.pdb
+C:\Users\Great\source\repos\RESTfullWebApi\RESTfullWebApi.Common\obj\Debug\net6.0\RESTfullWebApi.Common.csproj.AssemblyReference.cache
+C:\Users\Great\source\repos\RESTfullWebApi\RESTfullWebApi.Common\obj\Debug\net6.0\RESTfullWebApi.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Great\source\repos\RESTfullWebApi\RESTfullWebApi.Common\obj\Debug\net6.0\RESTfullWebApi.Common.AssemblyInfoInputs.cache
+C:\Users\Great\source\repos\RESTfullWebApi\RESTfullWebApi.Common\obj\Debug\net6.0\RESTfullWebApi.Common.AssemblyInfo.cs
+C:\Users\Great\source\repos\RESTfullWebApi\RESTfullWebApi.Common\obj\Debug\net6.0\RESTfullWebApi.Common.csproj.CoreCompileInputs.cache
+C:\Users\Great\source\repos\RESTfullWebApi\RESTfullWebApi.Common\obj\Debug\net6.0\RESTfullWebApi.Common.dll
+C:\Users\Great\source\repos\RESTfullWebApi\RESTfullWebApi.Common\obj\Debug\net6.0\refint\RESTfullWebApi.Common.dll
+C:\Users\Great\source\repos\RESTfullWebApi\RESTfullWebApi.Common\obj\Debug\net6.0\RESTfullWebApi.Common.pdb
+C:\Users\Great\source\repos\RESTfullWebApi\RESTfullWebApi.Common\obj\Debug\net6.0\ref\RESTfullWebApi.Common.dll
