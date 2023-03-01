@@ -39,7 +39,7 @@ Global
 		{A53A6E99-9B79-4A53-AC17-F954737B6AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A53A6E99-9B79-4A53-AC17-F954737B6AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A53A6E99-9B79-4A53-AC17-F954737B6AC6}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
+	EndGlobal  Section
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
